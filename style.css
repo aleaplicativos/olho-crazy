@@ -1,0 +1,229 @@
+body {
+	background-color: #000000;
+}
+.the-box1 {
+	background-color:#FFFFFF;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	top: 0;
+	left: 0;
+	border-radius: 50%;
+	z-index: 1;
+	animation: box1 1s linear infinite;
+}
+@keyframes box1 {
+	0% {
+		background-color: #FFFFFF;
+	}
+	100% {
+		background-color: #000000;
+	}
+}
+.the-box2 {
+	background-color: #000000;
+	position: fixed;
+	bottom: 2%;
+	right: 2%;
+	top: 2%;
+	left: 2%;
+	border-radius: 50%;
+	z-index: 2;
+}
+.the-box3 {
+	background-color: #FFFFFF;
+	position: fixed;
+	bottom: 4%;
+	right: 4%;
+	top: 4%;
+	left: 4%;
+	border-radius: 50%;
+	z-index: 3;
+	animation: box3 1s linear infinite;
+}
+@keyframes box3 {
+	0% {
+		background-color: #FFFFFF;
+	}
+	100% {
+		background-color: #000000;
+	}
+}
+.the-box4 {
+	background-color: #000000;
+	position: fixed;
+	bottom: 6%;
+	right: 6%;
+	top: 6%;
+	left: 6%;
+	border-radius: 50%;
+	z-index: 4;
+}
+.the-box5 {
+	background-color: #FFFFFF;
+	position: fixed;
+	bottom: 8%;
+	right: 8%;
+	top: 8%;
+	left: 8%;
+	border-radius: 50%;
+	z-index: 5;
+	animation: box5 6s linear infinite;
+}
+@keyframes box5 {
+	0% {
+		background-color: #FFFFFF;
+	}
+	100% {
+		background-color: #000000;
+	}
+}
+.the-box6 {
+	background-color: #000000;
+	position: fixed;
+	bottom: 10%;
+	right: 10%;
+	top: 10%;
+	left: 10%;
+	border-radius: 50%;
+	z-index: 6;
+	animation: box6 1s linear infinite;
+}
+@keyframes box6 {
+	0% {
+		background-color: #FFFFFF;
+	}
+	100% {
+		background-color: #000000;
+	}
+}
+.the-box7 {
+	background-color: #FFFFFF;
+	position: fixed;
+	bottom: 12%;
+	right: 12%;
+	top: 12%;
+	left: 12%;
+	border-radius: 50%;
+	z-index: 7;
+}
+.the-box8 {
+	background-color: #000000;
+	position: fixed;
+	bottom: 14%;
+	right: 14%;
+	top: 14%;
+	left: 14%;
+	border-radius: 50%;
+	z-index: 8;
+	animation: box8 1s linear infinite;
+}
+@keyframes box8 {
+	0% {
+		background-color: #FFFFFF;
+	}
+	100% {
+		background-color: #000000;
+	}
+}
+.the-box9 {
+	background-color: #FFFFFF;
+	position: fixed;
+	bottom: 16%;
+	right: 16%;
+	top: 16%;
+	left: 16%;
+	border-radius: 50%;
+	z-index: 9;
+	animation: box9 1s linear infinite;
+}
+.the-box10 {
+	background-color: #000000;
+	position: fixed;
+	bottom: 18%;
+	right: 18%;
+	top: 18%;
+	left: 18%;
+	border-radius: 50%;
+	z-index: 10;
+}
+.the-box11 {
+	background-color: #FFFFFF;
+	position: fixed;
+	bottom: 20%;
+	right: 20%;
+	top: 20%;
+	left: 20%;
+	border-radius: 50%;
+	z-index: 11;
+	animation: box11 1s linear infinite;
+}
+.the-box12 {
+	background-color: #000000;
+	position: fixed;
+	bottom: 22%;
+	right: 22%;
+	top: 22%;
+	left: 22%;
+	border-radius: 50%;
+	z-index: 12;
+}
+.the-box13 {
+	background-color: #FFFFFF;
+	position: fixed;
+	bottom: 24%;
+	right: 24%;
+	top: 24%;
+	left: 24%;
+	border-radius: 50%;
+	z-index: 13;
+	animation: box13 1s linear infinite;
+}
+@keyframes box13 {
+	0% {
+		background-color: #FFFFFF;
+	}
+	100% {
+		background-color: #000000;
+	}
+}
+.the-box14 {
+	background-color: #000000;
+	position: fixed;
+	bottom: 26%;
+	right: 26%;
+	top: 26%;
+	left: 26%;
+	border-radius: 50%;
+	z-index: 14;
+}
+.the-box15 {
+	background-color: #FFFFFF;
+	position: fixed;
+	bottom: 28%;
+	right: 28%;
+	top: 28%;
+	left: 28%;
+	border-radius: 50%;
+	z-index: 15;
+	animation: box15 1s linear infinite;
+}
+@keyframes box15 {
+	0% {
+		background-color: #FFFFFF;
+	}
+	100% {
+		background-color: #000000;
+	}
+}
+.the-box16 {
+	background-image: url("https://i.postimg.cc/8z53QsHx/eye.gif");
+	background-size: 100% 100%;
+	position: fixed;
+	bottom: 30%;
+	right: 30%;
+	top: 30%;
+	left: 30%;
+	border-radius: 50%;
+	z-index: 16;
+}
